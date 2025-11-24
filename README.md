@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arman
 
-**Software Engineer | Backend Developer | Problem Solver**
+**Software Engineer | Backend Developer | Problem Solver - and a human being :)**
 
 I build clean, scalable, and reliable backend systems.  
 
